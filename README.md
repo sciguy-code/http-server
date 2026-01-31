@@ -138,11 +138,6 @@ basically, everything's in its own lane. makes the whole codebase way easier to 
 
 ---
 
-## license
-
-this project is meant for educational and experimental purposes. no big deal, just play around with it.
-
----
 
 ## recommended next steps
 
