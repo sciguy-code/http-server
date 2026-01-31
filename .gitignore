@@ -1,0 +1,8 @@
+# compiled binary
+server
+
+# object files
+*.o
+
+# macOS junk
+.DS_Store
